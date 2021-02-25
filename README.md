@@ -1,11 +1,12 @@
-### Hi 👋 I`m Olya. I'm 19 y.o. and I`m studing at Kharkiv Aerospace University.
+### _Hi_ 👋 
+### _I'm Olya. I'm 19 y.o. and I'm studing at Kharkiv Aerospace University._
 ### In my free time, I prefer to drink tea and play CS GO.🔫
 ### Most of my English is in-game conversations.😂
 
 
-I am learning  ![Cloud](https://img.shields.io/badge/Terraform-blueviolet?style=for-the-badge&logo=Terraform)
+# _I am learning_  [![Cloud](https://img.shields.io/badge/Terraform-blueviolet?style=for-the-badge&logo=Terraform)](https://www.terraform.io/)
 
-[![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/nstrovaai/)
+# _My_ [![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/nstrovaai/)
 
 <!--
 **kalantaaaio/kalantaaaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
