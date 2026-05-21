@@ -3,13 +3,6 @@
 ### Skills: Webflow, Figma to Webflow, Webflow CMS, responsive design, HTML/CSS basics, JavaScript basics, SEO setup, website maintenance, Webflow interactions.
 ### Typical projects include business websites, landing pages, SaaS marketing websites, service company websites, and CMS-based Webflow sites.
 
-
-# _I am learning_  [![Cloud](https://img.shields.io/badge/Terraform-blueviolet?style=for-the-badge&logo=Terraform)](https://www.terraform.io/) [![Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=gcp)](https://cloud.google.com/) ![Cloud](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)
-
-
-# _My_ [![Cloud](https://img.shields.io/badge/instagram-ffffff?style=for-the-badge&logo=instagram)](https://www.instagram.com/nstrovaai/) [![Cloud](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram)](https://t.me/nstrovaai) [![Cloud](https://img.shields.io/badge/Steam-ffffff?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/nstrovaai/)
-
-
 <!--
 **kalantaaaio/kalantaaaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
