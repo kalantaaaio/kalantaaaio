@@ -1,8 +1,7 @@
 ### _Hi_ 👋 
-### _I'm Olya. I'm 19 y.o. and I'm studing at Kharkiv Aerospace University._
-### _In my free time, I prefer to drink tea and play CS GO._ 🔫
-### _Most of my English is in-game conversations._ 😂
-
+### _I'm Olya. I'm 24 y.o. and I'm webflow developer
+### _Skills: Webflow, Figma to Webflow, Webflow CMS, responsive design, HTML/CSS basics, JavaScript basics, SEO setup, website maintenance, Webflow interactions.
+### _Typical projects include business websites, landing pages, SaaS marketing websites, service company websites, and CMS-based Webflow sites.
 
 
 # _I am learning_  [![Cloud](https://img.shields.io/badge/Terraform-blueviolet?style=for-the-badge&logo=Terraform)](https://www.terraform.io/) [![Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=gcp)](https://cloud.google.com/) ![Cloud](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)
